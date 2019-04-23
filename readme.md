@@ -4,7 +4,7 @@
 
 ## Dataset
 
-The dataset, 2017-fordgobike-tripdata.csv, is downloaded from following link and licensed by Ford GoBike. This dataset includes 519,700 trips with 15 features such as locations, time, and user attributes. Before analysis I try tol clean it in a df_clean dataframe.
+The dataset, 2017-fordgobike-tripdata.csv, is downloaded from following link and licensed by Ford GoBike. This dataset includes 519,700 trips with 15 features such as locations, time, and user attributes. Before analysis I try to clean it in a df_clean dataframe.
 In this project, our goal is to conduct an exploratory data analysis on Ford GoBike Trip dataset. We will use Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns and relationships. The analysis in this part is structured, going from simple univariate relationships up through multivariate relationships, but it does not need to be clean or perfect. This part of the project is gives opportunity to ask questions on data and make discoveries.
 Dataset address is :
 https://s3.amazonaws.com/fordgobike-data/2017-fordgobike-tripdata.csv
